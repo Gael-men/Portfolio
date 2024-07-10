@@ -1,0 +1,198 @@
+body {
+  background-color: bisque;
+}
+
+
+marquee h1 {
+  font-weight: bold;
+  font-size: 3em;
+  font-family: sans-serif;
+  color: brown;
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+body header img {
+  height: 2%;
+  width: 100%;
+  border-radius: 12rcap;
+
+}
+
+.AR1 {
+  width: 100%;
+  height: 10px;
+  background-color: black;
+  border: solid black;
+  border-radius: 5px;
+}
+
+.AR2 {}
+
+.AR2 h2 {
+  text-align: center;
+
+}
+
+.LIBELLE {
+  text-align: center;
+  text-decoration: solid;
+}
+
+.Container PASTEQUE {
+  align-items: flex-start;
+  display: flex;
+
+}
+
+.Container img {
+  width: 300px;
+  height: 270px;
+  border-radius: 15px;
+  margin-left: 55px;
+
+}
+
+.Raisin img {
+  margin-left: 75%;
+}
+
+.lelien1 {
+  text-align: center;
+  text-decoration: dotted;
+
+}
+
+.Separation {
+  width: 100%;
+  height: 10px;
+  background-color: rgb(4, 130, 247);
+  border: solid black;
+  border-radius: 10px;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!PASTEQUE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+.body2 {
+  background-image: url(Ressources/ARRIERE\ PLAN\ WATTERMELON.png);
+}
+
+.body2 h1 {
+  text-align: center;
+  text-decoration: wavy;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: aliceblue;
+  color: aliceblue;
+  text-decoration: underline;
+}
+
+.Container2 {
+  margin: auto;
+  background-color: transparent;
+  backdrop-filter: blur(25px);
+  border: solid snow;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 1000px;
+  height: 600px;
+
+}
+
+.definition {
+  text-align: center;
+  text-decoration: wavy;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: aliceblue;
+  color: aliceblue;
+  text-decoration: none;
+}
+
+ul {
+  font-size: 1.4em;
+  color: khaki;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!RAISIN!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.body3 {
+  background-image: url(Ressources/RAISIN\ PAGE\ ARRIERE\ PLAN.png);
+}
+
+.body3 h1 {
+  text-align: center;
+  text-decoration: wavy;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: aliceblue;
+  color: aliceblue;
+  text-decoration: underline;
+}
+
+.Container2 {
+  margin: auto;
+  background-color: transparent;
+  backdrop-filter: blur(25px);
+  border: solid snow;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 1000px;
+  height: 600px;
+
+}
+
+.definition {
+  text-align: center;
+  text-decoration: wavy;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: aliceblue;
+  color: aliceblue;
+  text-decoration: none;
+}
+
+ul {
+  font-size: 1.4em;
+  color: light springgreen;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!CAROTTE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+.body4 {
+  background-image: url(Ressources/CAROTTE\ ARR\ PLAN.png);
+}
+
+.body4 h1 {
+  text-align: center;
+  text-decoration: wavy;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: aliceblue;
+  color: aliceblue;
+  text-decoration: underline;
+}
+
+.Container2 {
+  margin: auto;
+  background-color: transparent;
+  backdrop-filter: blur(25px);
+  border: solid snow;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 1000px;
+  height: 600px;
+
+}
+
+.definition {
+  text-align: center;
+  text-decoration: wavy;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: aliceblue;
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.couleur{
+  font-size: 1.4em;
+  color: light springgreen;
+}
