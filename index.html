@@ -7,6 +7,7 @@
 </head>
 <body style="background-color: aqua;">
     <h1 style="text-align: center;">Ceci est mon portfolio</h1>
+    MERCI
     
 </body>
 </html>
